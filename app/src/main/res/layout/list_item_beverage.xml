@@ -33,4 +33,10 @@
         android:hint="$70.10"
         android:textSize="25dp"
         android:gravity="end"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        android:layout_below="@id/list_item_beverage_item_number"/>
 </RelativeLayout>
