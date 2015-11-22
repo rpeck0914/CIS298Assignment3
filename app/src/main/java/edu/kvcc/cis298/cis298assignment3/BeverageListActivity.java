@@ -7,6 +7,7 @@ import android.support.v4.app.Fragment;
  */
 public class BeverageListActivity extends SingleFragmentActivity {
 
+    // BeverageListActivity class that inherits from the SingleFragmentActivity class
     protected Fragment createFragment() {
         return new BeverageListFragment();
     }

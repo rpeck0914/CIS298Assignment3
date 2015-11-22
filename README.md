@@ -2,7 +2,7 @@
 
 ## Author
 
-
+Robert Peck
 
 ## Description
 
@@ -47,8 +47,10 @@ Through File System:   app/src/main/res/raw/
 
 ## Outside Resources Used
 
+In Class 3 Assignment
 
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+No Problems Or Issues That Are Known.
 
